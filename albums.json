@@ -1,0 +1,3502 @@
+[
+    {
+        "artist": "The Beatles",
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band",
+        "rs_top": "1",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beach Boys",
+        "album" : "Pet Sounds",
+        "rs_top": "2",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Revolver",
+        "rs_top": "3",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Highway 61 Revisited",
+        "rs_top": "4",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Rubber Soul",
+        "rs_top": "5",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Marvin Gaye",
+        "album" : "What's Going On",
+        "rs_top": "6",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Exile on Main St.",
+        "rs_top": "7",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Clash",
+        "album" : "London Calling",
+        "rs_top": "8",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Blonde on Blonde",
+        "rs_top": "9",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "The Beatles",
+        "rs_top": "10",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Presley",
+        "album" : "The Sun Sessions",
+        "rs_top": "11",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Miles Davis",
+        "album" : "Kind of Blue",
+        "rs_top": "12",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Velvet Underground & Nico",
+        "album" : "The Velvet Underground & Nico",
+        "rs_top": "13",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Abbey Road",
+        "rs_top": "14",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Jimi Hendrix Experience",
+        "album" : "Are You Experienced",
+        "rs_top": "15",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Blood on The Tracks",
+        "rs_top": "16",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nirvana",
+        "album" : "Nevermind",
+        "rs_top": "17",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "Born To Run",
+        "rs_top": "18",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Van Morrison",
+        "album" : "Astral Weeks",
+        "rs_top": "19",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Michael Jackson",
+        "album" : "Thriller",
+        "rs_top": "20",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Chuck Berry",
+        "album" : "The Great Twenty-Eight",
+        "rs_top": "21",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Robert Johnson",
+        "album" : "The Complete Recordings",
+        "rs_top": "22",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Lennon / Plastic Ono Band",
+        "album" : "John Lennon / Plastic Ono Band",
+        "rs_top": "23",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Stevie Wonder",
+        "album" : "Innervisions",
+        "rs_top": "24",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "James Brown",
+        "album" : "James Brown Live at the Apollo",
+        "rs_top": "25",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "album" : "Rumours",
+        "rs_top": "26",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "U2",
+        "album" : "The Joshua Tree",
+        "rs_top": "27",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "Who's Next",
+        "rs_top": "28",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Led Zeppelin",
+        "album" : "Led Zeppelin",
+        "rs_top": "29",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Joni Mitchell",
+        "album" : "Blue",
+        "rs_top": "30",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Bringing It All Back Home",
+        "rs_top": "31",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Rolling Stones",
+        "album" : "Let It Bleed",
+        "rs_top": "32",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ramones",
+        "album" : "Ramones",
+        "rs_top": "33",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Band",
+        "album" : "Music From Big Pink",
+        "rs_top": "34",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "David Bowie",
+        "album" : "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+        "rs_top": "35",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Carole King",
+        "album" : "Tapestry",
+        "rs_top": "36",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eagles",
+        "album" : "Hotel California",
+        "rs_top": "37",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Muddy Waters",
+        "album" : "The Anthology (1947 - 1972)",
+        "rs_top": "38",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Please Please Me",
+        "rs_top": "39",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Love",
+        "album" : "Forever Changes",
+        "rs_top": "40",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sex Pistols",
+        "album" : "Never Mind the Bollocks Here's the Sex Pistols",
+        "rs_top": "41",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Doors",
+        "album" : "The Doors",
+        "rs_top": "42",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pink Floyd",
+        "album" : "The Dark Side Of The Moon",
+        "rs_top": "43",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Patti Smith",
+        "album" : "Horses",
+        "rs_top": "44",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Band",
+        "album" : "The Band",
+        "rs_top": "45",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Marley & The Wailers",
+        "album" : "Legend - The Best Of Bob Marley And The Wailers",
+        "rs_top": "46",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Coltrane",
+        "album" : "A Love Supreme",
+        "rs_top": "47",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Public Enemy",
+        "album" : "It Takes a Nation of Millions To Hold Us Back",
+        "rs_top": "48",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Allman Brothers Band",
+        "album" : "The Allman Brothers Band At Fillmore East",
+        "rs_top": "49",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Little Richard",
+        "album" : "Here's Little Richard",
+        "rs_top": "50",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Simon and Garfunkel",
+        "album" : "Bridge Over Troubled Water",
+        "rs_top": "51",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Al Green",
+        "album" : "Greatest Hits",
+        "rs_top": "52",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Meet The Beatles!",
+        "rs_top": "53",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ray Charles",
+        "album" : "The Birth of Soul: The Complete Atlantic Rhythm & Blues Recordings 1952 - 1959",
+        "rs_top": "54",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Jimi Hendrix Experience",
+        "album" : "Electric Ladyland",
+        "rs_top": "55",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Presley",
+        "album" : "Elvis Presley",
+        "rs_top": "56",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Stevie Wonder",
+        "album" : "Songs in The Key Of Life",
+        "rs_top": "57",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Beggars Banquet",
+        "rs_top": "58",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Creedence Clearwater Reviva",
+        "album" : "Chronicle - The 20 Greatest Hits",
+        "rs_top": "59",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Captain Beefheart & His Magic Band",
+        "album" : "Trout Mask Replica",
+        "rs_top": "60",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sly & the Family Stone",
+        "album" : "Greatest Hits",
+        "rs_top": "61",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Guns N' Roses",
+        "album" : "Appetite For Destruction",
+        "rs_top": "62",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "U2",
+        "album" : "Achtung Baby",
+        "rs_top": "63",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Sticky Fingers",
+        "rs_top": "64",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Phil Spector",
+        "album" : "Back To Mono (1958 - 1969)",
+        "rs_top": "65",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Van Morrison",
+        "album" : "Moondance",
+        "rs_top": "66",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Radiohead",
+        "album" : "Kid A",
+        "rs_top": "67",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Michael Jackson",
+        "album" : "Off The Wall",
+        "rs_top": "68",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Led Zeppelin",
+        "album" : "Led Zeppelin",
+        "rs_top": "69",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Billy Joel",
+        "album" : "The Stranger",
+        "rs_top": "70",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Paul Simon",
+        "album" : "Graceland",
+        "rs_top": "71",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Curtis Mayfield",
+        "album" : "Super Fly",
+        "rs_top": "72",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Led Zeppelin",
+        "album" : "Physical Graffiti",
+        "rs_top": "73",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Young",
+        "album" : "After the Gold Rush",
+        "rs_top": "74",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "James Brown",
+        "album" : "Star Time",
+        "rs_top": "75",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Prince and The Revolution",
+        "album" : "Purple Rain",
+        "rs_top": "76",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "AC/DC",
+        "album" : "Back In Black",
+        "rs_top": "77",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Otis Redding",
+        "album" : "Otis Blue / Otis Redding Sings Soul",
+        "rs_top": "78",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Led Zeppelin",
+        "album" : "Led Zeppelin II",
+        "rs_top": "79",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Lennon",
+        "album" : "Imagine",
+        "rs_top": "80",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Clash",
+        "album" : "The Clash",
+        "rs_top": "81",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Young",
+        "album" : "Harvest",
+        "rs_top": "82",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Jimi Hendrix Experience",
+        "album" : "Axis: Bold As Love",
+        "rs_top": "83",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Aretha Franklin",
+        "album" : "I Never Loved A Man The Way I Loved You",
+        "rs_top": "84",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Aretha Franklin",
+        "album" : "Lady Soul",
+        "rs_top": "85",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "Born in the U.S.A.",
+        "rs_top": "86",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pink Floyd",
+        "album" : "The Wall",
+        "rs_top": "87",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Johnny Cash",
+        "album" : "At Folsom Prison",
+        "rs_top": "88",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dusty Springfield",
+        "album" : "Dusty In Memphis",
+        "rs_top": "89",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Stevie Wonder",
+        "album" : "Talking Book",
+        "rs_top": "90",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elton John",
+        "album" : "Goodbye Yellow Brick Road",
+        "rs_top": "91",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Buddy Holly & the Crickets",
+        "album" : "20 Golden Greats",
+        "rs_top": "92",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Prince",
+        "album" : "Sign "O" The Times",
+        "rs_top": "93",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Hank Williams",
+        "album" : "Hank Williams - 40 Greatest Hits",
+        "rs_top": "94",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Miles Davis",
+        "album" : "B***es Brew",
+        "rs_top": "95",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "Tommy",
+        "rs_top": "96",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "The Freewheelin' Bob Dylan",
+        "rs_top": "97",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Costello",
+        "album" : "This Year's Model",
+        "rs_top": "98",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sly & the Family Stone",
+        "album" : "There's a Riot Goin' On",
+        "rs_top": "99",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Zombies",
+        "album" : "Odyssey And Oracle",
+        "rs_top": "100",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Frank Sinatra",
+        "album" : "In the Wee Small Hours",
+        "rs_top": "101",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cream",
+        "album" : "Fresh Cream",
+        "rs_top": "102",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Coltrane",
+        "album" : "Giant Steps",
+        "rs_top": "103",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "James Taylor",
+        "album" : "Sweet Baby James",
+        "rs_top": "104",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ray Charles",
+        "album" : "Modern Sounds in Country And Western Music",
+        "rs_top": "105",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ramones",
+        "album" : "Rocket to Russia",
+        "rs_top": "106",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sam Cooke",
+        "album" : "Portrait Of A Legend 1951 - 1964",
+        "rs_top": "107",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "David Bowie",
+        "album" : "Hunky Dory",
+        "rs_top": "108",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Aftermath",
+        "rs_top": "109",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Velvet Underground",
+        "album" : "Loaded",
+        "rs_top": "110",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Radiohead",
+        "album" : "The Bends",
+        "rs_top": "111",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Mamas and the Papas",
+        "album" : "If You Can Believe Your Eyes And Ears",
+        "rs_top": "112",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Joni Mitchell",
+        "album" : "Court and Spark",
+        "rs_top": "113",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cream",
+        "album" : "Disraeli Gears",
+        "rs_top": "114",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "The Who Sell Out",
+        "rs_top": "115",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Out Of Our Heads",
+        "rs_top": "116",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Derek and the Dominos",
+        "album" : "Layla And Other Assorted Love Songs",
+        "rs_top": "117",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kanye West",
+        "album" : "Late Registration",
+        "rs_top": "118",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Etta James",
+        "album" : "At Last!",
+        "rs_top": "119",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Byrds",
+        "album" : "Sweetheart of the Rodeo",
+        "rs_top": "120",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sly & the Family Stone",
+        "album" : "Stand!",
+        "rs_top": "121",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "The Harder They Come (Original Soundtrack Recording)",
+        "rs_top": "122",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "RUN DMC",
+        "album" : "Raising Hell",
+        "rs_top": "123",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Moby Grape",
+        "album" : "Moby Grape",
+        "rs_top": "124",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Janis Joplin",
+        "album" : "Pearl",
+        "rs_top": "125",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Wailers",
+        "album" : "Catch a Fire",
+        "rs_top": "126",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Byrds",
+        "album" : "Younger than Yesterday",
+        "rs_top": "127",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Iggy and the Stooges",
+        "album" : "Raw Power",
+        "rs_top": "128",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Talking Heads",
+        "album" : "Remain In Light",
+        "rs_top": "129",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Television",
+        "album" : "Marquee Moon",
+        "rs_top": "130",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Black Sabbath",
+        "album" : "Paranoid",
+        "rs_top": "131",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "Saturday Night Fever (The Original Movie Sound Track)",
+        "rs_top": "132",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "The Wild, the Innocent & the E Street Shuffle",
+        "rs_top": "133",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Notorious B.I.G",
+        "album" : "Ready to Die",
+        "rs_top": "134",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pavement",
+        "album" : "Slanted and Enchanted",
+        "rs_top": "135",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elton John",
+        "album" : "Greatest Hits",
+        "rs_top": "136",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Replacements",
+        "album" : "Tim",
+        "rs_top": "137",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dr. Dre",
+        "album" : "The Chronic",
+        "rs_top": "138",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Meters",
+        "album" : "Rejuvenation",
+        "rs_top": "139",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Blondie",
+        "album" : "Parallel Lines",
+        "rs_top": "140",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "B.B. King",
+        "album" : "Live at the Regal",
+        "rs_top": "141",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Phil Spector",
+        "album" : "Phil Spector's Christmas Album",
+        "rs_top": "142",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dr. John, the Night Tripper",
+        "album" : "Gris - Gris",
+        "rs_top": "143",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "N.W.A",
+        "album" : "Straight Outta Compton",
+        "rs_top": "144",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Steely Dan",
+        "album" : "Aja",
+        "rs_top": "145",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jefferson Airplane",
+        "album" : "Surrealistic Pillow",
+        "rs_top": "146",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Crosby, Stills, Nash & Young",
+        "album" : "Déjà Vu",
+        "rs_top": "147",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Led Zeppelin",
+        "album" : "Houses Of The Holy",
+        "rs_top": "148",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Santana",
+        "album" : "Santana",
+        "rs_top": "149",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "Darkness on the Edge of Town",
+        "rs_top": "150",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Arcade Fire",
+        "album" : "Funeral",
+        "rs_top": "151",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The B-52's",
+        "album" : "The B-52's",
+        "rs_top": "152",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album" : "The Low End Theory",
+        "rs_top": "153",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Howlin' Wolf",
+        "album" : "Moanin' in the Moonlight",
+        "rs_top": "154",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pretenders",
+        "album" : "Pretenders",
+        "rs_top": "155",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Beastie Boys",
+        "album" : "Paul's Boutique",
+        "rs_top": "156",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Joy Division",
+        "album" : "Closer",
+        "rs_top": "157",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elton John",
+        "album" : "Captain Fantastic and the Brown Dirt Cowboy",
+        "rs_top": "158",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kiss",
+        "album" : "Alive!",
+        "rs_top": "159",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "T. Rex",
+        "album" : "Electric Warrior",
+        "rs_top": "160",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Otis Redding",
+        "album" : "The Dock of the Bay",
+        "rs_top": "161",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Radiohead",
+        "album" : "OK Computer",
+        "rs_top": "162",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Prince",
+        "album" : "1999",
+        "rs_top": "163",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Linda Ronstadt",
+        "album" : "The Very Best of Linda Ronstadt",
+        "rs_top": "164",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Marvin Gaye",
+        "album" : "Let's Get It On",
+        "rs_top": "165",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Costello & the Attractions",
+        "album" : "Imperial Bedroom",
+        "rs_top": "166",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Metallica",
+        "album" : "Master of Puppets",
+        "rs_top": "167",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Costello",
+        "album" : "My Aim Is True",
+        "rs_top": "168",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Marley & the Wailers",
+        "album" : "Exodus",
+        "rs_top": "169",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "Live at Leeds",
+        "rs_top": "170",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Byrds",
+        "album" : "The Notorious Byrd Brothers",
+        "rs_top": "171",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Rod Stewart",
+        "album" : "Every Picture Tells A Story",
+        "rs_top": "172",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Todd Rundgren",
+        "album" : "Something / Anything?",
+        "rs_top": "173",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Desire",
+        "rs_top": "174",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Carpenters",
+        "album" : "Close to You",
+        "rs_top": "175",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Aerosmith",
+        "album" : "Rocks",
+        "rs_top": "176",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Funkadelic",
+        "album" : "One Nation under a Groove",
+        "rs_top": "177",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Curtis Mayfield & the Impressions",
+        "album" : "The Anthology 1961 - 1977",
+        "rs_top": "178",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "ABBA",
+        "album" : "The Definitive Collection",
+        "rs_top": "179",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "The Rolling Stones, Now!",
+        "rs_top": "180",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Marley & the Wailers",
+        "album" : "Natty Dread",
+        "rs_top": "181",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "album" : "Fleetwood Mac",
+        "rs_top": "182",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Willie Nelson",
+        "album" : "Red Headed Stranger",
+        "rs_top": "183",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Madonna",
+        "album" : "The Immaculate Collection",
+        "rs_top": "184",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Stooges",
+        "album" : "The Stooges",
+        "rs_top": "185",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sly & the Family Stone",
+        "album" : "Fresh",
+        "rs_top": "186",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Peter Gabriel",
+        "album" : "So",
+        "rs_top": "187",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Buffalo Springfield",
+        "album" : "Buffalo Springfield Again",
+        "rs_top": "188",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Quicksilver Messenger Service",
+        "album" : "Happy Trails",
+        "rs_top": "189",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Presley",
+        "album" : "From Elvis in Memphis",
+        "rs_top": "190",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Stooges",
+        "album" : "Fun House",
+        "rs_top": "191",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Flying Burrito Bros",
+        "album" : "The Gilded Palace of Sin",
+        "rs_top": "192",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Green Day",
+        "album" : "Dookie",
+        "rs_top": "193",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lou Reed",
+        "album" : "Transformer",
+        "rs_top": "194",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Mayall with Eric Clapton",
+        "album" : "Blues Breakers",
+        "rs_top": "195",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "Nuggets: Original Artyfacts from the First Psychedelic Era 1965 - 1968",
+        "rs_top": "196",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "R.E.M.",
+        "album" : "Murmur",
+        "rs_top": "197",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Little Walter",
+        "album" : "The Best of Little Walter",
+        "rs_top": "198",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Strokes",
+        "album" : "Is This It",
+        "rs_top": "199",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "AC/DC",
+        "album" : "Highway to Hell",
+        "rs_top": "200",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "album" : "The Downward Spiral",
+        "rs_top": "201",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Simon and Garfunkel",
+        "album" : "Parsley, Sage, Rosemary and Thyme",
+        "rs_top": "202",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Michael Jackson",
+        "album" : "Bad",
+        "rs_top": "203",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Modern Times",
+        "rs_top": "204",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cream",
+        "album" : "Wheels of Fire",
+        "rs_top": "205",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Prince",
+        "album" : "Dirty Mind",
+        "rs_top": "206",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Santana",
+        "album" : "Abraxas",
+        "rs_top": "207",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cat Stevens",
+        "album" : "Tea for the Tillerman",
+        "rs_top": "208",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pearl Jam",
+        "album" : "Ten",
+        "rs_top": "209",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Young & Crazy Horse",
+        "album" : "Everybody Knows This is Nowhere",
+        "rs_top": "210",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pink Floyd",
+        "album" : "Wish You Were Here",
+        "rs_top": "211",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pavement",
+        "album" : "Crooked Rain, Crooked Rain",
+        "rs_top": "212",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Tattoo You",
+        "rs_top": "213",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ike & Tina Turner",
+        "album" : "Proud Mary: The Best Of Ike And Tina Turner",
+        "rs_top": "214",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "New York Dolls",
+        "album" : "New York Dolls",
+        "rs_top": "215",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bo Diddley",
+        "album" : "Go Bo Diddley",
+        "rs_top": "216",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bobby Bland",
+        "album" : "Two Steps from the Blues",
+        "rs_top": "217",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Smiths",
+        "album" : "The Queen is Dead",
+        "rs_top": "218",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Beastie Boys",
+        "album" : "Licensed to Ill",
+        "rs_top": "219",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Meters",
+        "album" : "Look - Ka Py Py",
+        "rs_top": "220",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "My Bloody Valentine",
+        "album" : "Loveless",
+        "rs_top": "221",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Professor Longhair",
+        "album" : "New Orleans Piano",
+        "rs_top": "222",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "U2",
+        "album" : "War",
+        "rs_top": "223",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Diamond",
+        "album" : "The Neil Diamond Collection",
+        "rs_top": "224",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Green Day",
+        "album" : "American Idiot",
+        "rs_top": "225",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "Nebraska",
+        "rs_top": "226",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pixies",
+        "album" : "Doolittle",
+        "rs_top": "227",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eric B. & Rakim",
+        "album" : "Paid in Full",
+        "rs_top": "228",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Aerosmith",
+        "album" : "Toys in the Attic",
+        "rs_top": "229",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bonnie Raitt",
+        "album" : "Nick of Time",
+        "rs_top": "230",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Queen",
+        "album" : "A Night at the Opera",
+        "rs_top": "231",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Kinks",
+        "album" : "The Kink Kronikles",
+        "rs_top": "232",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Byrds",
+        "album" : "Mr. Tambourine Man",
+        "rs_top": "233",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Simon & Garfunkel",
+        "album" : "Bookends",
+        "rs_top": "234",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Patsy Cline",
+        "album" : "The Ultimate Collection",
+        "rs_top": "235",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jackie Wilson",
+        "album" : "The Classic Jackie Wilson",
+        "rs_top": "236",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "My Generation",
+        "rs_top": "237",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Howlin' Wolf",
+        "album" : "Howlin' Wolf",
+        "rs_top": "238",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Madonna",
+        "album" : "Like a Prayer",
+        "rs_top": "239",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Steely Dan",
+        "album" : "Can't Buy a Thrill",
+        "rs_top": "240",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Replacements",
+        "album" : "Let It Be",
+        "rs_top": "241",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Run-D.M.C",
+        "album" : "Run-D.M.C.",
+        "rs_top": "242",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Black Sabbath",
+        "album" : "Black Sabbath",
+        "rs_top": "243",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eminem",
+        "album" : "The Marshall Mathers LP",
+        "rs_top": "244",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jerry Lee Lewis",
+        "album" : "The Jerry Lee Lewis Anthology - All Killer No Filler!",
+        "rs_top": "245",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Mothers of Invention",
+        "album" : "Freak Out!",
+        "rs_top": "246",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Grateful Dead",
+        "album" : "Live/Dead",
+        "rs_top": "247",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ornette Coleman",
+        "album" : "The Shape of Jazz to Come",
+        "rs_top": "248",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "R.E.M.",
+        "album" : "Automatic for the People",
+        "rs_top": "249",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jay-Z",
+        "album" : "Reasonable Doubt",
+        "rs_top": "250",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "David Bowie",
+        "album" : "Low",
+        "rs_top": "251",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jay-Z",
+        "album" : "The Blueprint",
+        "rs_top": "252",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "The River",
+        "rs_top": "253",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Otis Redding",
+        "album" : "The Otis Redding Dictionary Of Soul - Complete & Unbelievable",
+        "rs_top": "254",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Metallica",
+        "album" : "Metallica",
+        "rs_top": "255",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kraftwerk",
+        "album" : "Trans Europa Express",
+        "rs_top": "256",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Whitney Houston",
+        "album" : "Whitney Houston",
+        "rs_top": "257",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Kinks",
+        "album" : "The Kinks are the Village Green Preservation Society",
+        "rs_top": "258",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Janet (Jackson)",
+        "album" : "The Velvet Rope",
+        "rs_top": "259",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Willie Nelson",
+        "album" : "Stardust",
+        "rs_top": "260",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Grateful Dead",
+        "album" : "American Beauty",
+        "rs_top": "261",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Crosby, Stills & Nash",
+        "album" : "Crosby, Stills & Nash",
+        "rs_top": "262",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Tracy Chapman",
+        "album" : "Tracy Chapman",
+        "rs_top": "263",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Grateful Dead",
+        "album" : "Workingman's Dead",
+        "rs_top": "264",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Ray Charles",
+        "album" : "The Genius of Ray Charles",
+        "rs_top": "265",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Blood, Sweat and Tears",
+        "album" : "Child Is Father to the Man",
+        "rs_top": "266",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "Quadrophenia",
+        "rs_top": "267",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Paul Simon",
+        "album" : "Paul Simon",
+        "rs_top": "268",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Jesus and Mary Chain",
+        "album" : "Psychocandy",
+        "rs_top": "269",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Some Girls",
+        "rs_top": "270",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beach Boys",
+        "album" : "The Beach Boys Today!",
+        "rs_top": "271",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sleater - Kinney",
+        "album" : "Dig Me Out",
+        "rs_top": "272",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Smokey Robinson and the Miracles",
+        "album" : "Going To A Go - Go",
+        "rs_top": "273",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "LaBelle",
+        "album" : "Nightbirds",
+        "rs_top": "274",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eminem",
+        "album" : "The Slim Shady LP",
+        "rs_top": "275",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Parliament",
+        "album" : "Mothership Connection",
+        "rs_top": "276",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Janet Jackson",
+        "album" : "Rhythm Nation 1814",
+        "rs_top": "277",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "Anthology of American Folk Music",
+        "rs_top": "278",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "David Bowie",
+        "album" : "Aladdin Sane",
+        "rs_top": "279",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "U2",
+        "album" : "All That You Can't Leave Behind",
+        "rs_top": "280",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Mary J. Blige",
+        "album" : "My Life",
+        "rs_top": "281",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Muddy Waters",
+        "album" : "Folk Singer",
+        "rs_top": "282",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Barry White",
+        "album" : "Can't Get Enough",
+        "rs_top": "283",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Cars",
+        "album" : "The Cars",
+        "rs_top": "284",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Stevie Wonder",
+        "album" : "Music of My Mind",
+        "rs_top": "285",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Al Green",
+        "album" : "I'm Still in Love with You",
+        "rs_top": "286",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "X (5)",
+        "album" : "Los Angeles",
+        "rs_top": "287",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Grateful Dead",
+        "album" : "Anthem of the Sun",
+        "rs_top": "288",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Kinks",
+        "album" : "Something Else by The Kinks",
+        "rs_top": "289",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Al Green",
+        "album" : "Call Me",
+        "rs_top": "290",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Talking Heads",
+        "album" : "Talking Heads: 77",
+        "rs_top": "291",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan & the Band",
+        "album" : "The Basement Tapes",
+        "rs_top": "292",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Velvet Underground",
+        "album" : "White Light/White Heat",
+        "rs_top": "293",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "MC5",
+        "album" : "Kick Out the Jams",
+        "rs_top": "294",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Leonard Cohen",
+        "album" : "Songs of Love and Hate",
+        "rs_top": "295",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Smiths",
+        "album" : "Meat is Murder",
+        "rs_top": "296",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Mothers of Invention",
+        "album" : "We're Only in it for the Money",
+        "rs_top": "297",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kanye West",
+        "album" : "The College Dropout",
+        "rs_top": "298",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Weezer",
+        "album" : "Weezer",
+        "rs_top": "299",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Black Sabbath",
+        "album" : "Master of Reality",
+        "rs_top": "300",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dolly Parton",
+        "album" : "Coat of Many Colors",
+        "rs_top": "301",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Public Enemy",
+        "album" : "Fear of a Black Planet",
+        "rs_top": "302",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "John Wesley Harding",
+        "rs_top": "303",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jeff Buckley",
+        "album" : "Grace",
+        "rs_top": "304",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lucinda Williams",
+        "album" : "Car Wheels on a Gravel Road",
+        "rs_top": "305",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Beck",
+        "album" : "Odelay",
+        "rs_top": "306",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "A Hard Day's Night",
+        "rs_top": "307",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Frank Sinatra",
+        "album" : "Songs for Swingin' Lovers",
+        "rs_top": "308",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "album" : "Willy and the Poor Boys",
+        "rs_top": "309",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "album" : "Blood Sugar Sex Magik",
+        "rs_top": "310",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "The Sun Records Collection",
+        "rs_top": "311",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jane's Addiction",
+        "album" : "Nothing's Shocking",
+        "rs_top": "312",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nirvana",
+        "album" : "MTV Unplugged in New York",
+        "rs_top": "313",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lauryn Hill",
+        "album" : "The Miseducation of Lauryn Hill",
+        "rs_top": "314",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Tom Petty and the Heartbreakers",
+        "album" : "Damn the Torpedoes",
+        "rs_top": "315",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Velvet Underground",
+        "album" : "The Velvet Underground",
+        "rs_top": "316",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pixies",
+        "album" : "Surfer Rosa",
+        "rs_top": "317",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "O'Jays",
+        "album" : "Back Stabbers",
+        "rs_top": "318",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Marley & the Wailers",
+        "album" : "Burnin'",
+        "rs_top": "319",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Radiohead",
+        "album" : "Amnesiac",
+        "rs_top": "320",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nick Drake",
+        "album" : "Pink Moon",
+        "rs_top": "321",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Randy Newman",
+        "album" : "Sail Away",
+        "rs_top": "322",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Police",
+        "album" : "Ghost in the Machine",
+        "rs_top": "323",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "David Bowie",
+        "album" : "Station to Station",
+        "rs_top": "324",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eric Clapton",
+        "album" : "Slowhand",
+        "rs_top": "325",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Cure",
+        "album" : "Disintegration",
+        "rs_top": "326",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Liz Phair",
+        "album" : "Exile in Guyville",
+        "rs_top": "327",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sonic Youth",
+        "album" : "Daydream Nation",
+        "rs_top": "328",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "James Brown",
+        "album" : "In the Jungle Groove",
+        "rs_top": "329",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Young",
+        "album" : "Tonight's the Night",
+        "rs_top": "330",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Help!",
+        "rs_top": "331",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Richard & Linda Thompson",
+        "album" : "Shoot Out the Lights",
+        "rs_top": "332",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "X (5)",
+        "album" : "Wild Gift",
+        "rs_top": "333",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Graham Parker & the Rumour",
+        "album" : "Squeezing Out Sparks",
+        "rs_top": "334",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Soundgarden",
+        "album" : "Superunknown",
+        "rs_top": "335",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Radiohead",
+        "album" : "In Rainbows",
+        "rs_top": "336",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jethro Tull",
+        "album" : "Aqualung",
+        "rs_top": "337",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Big Brother & the Holding Company",
+        "album" : "Cheap Thrills",
+        "rs_top": "338",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Tom Waits",
+        "album" : "The Heart of Saturday Night",
+        "rs_top": "339",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Black Flag",
+        "album" : "Damaged",
+        "rs_top": "340",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Moby",
+        "album" : "Play",
+        "rs_top": "341",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Depeche Mode",
+        "album" : "Violator",
+        "rs_top": "342",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Meat Loaf",
+        "album" : "Bat out of Hell",
+        "rs_top": "343",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lou Reed",
+        "album" : "Berlin",
+        "rs_top": "344",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Talking Heads",
+        "album" : "Stop Making Sense",
+        "rs_top": "345",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "De La Soul",
+        "album" : "3 Feet High and Rising",
+        "rs_top": "346",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pink Floyd",
+        "album" : "The Piper at the Gates of Dawn",
+        "rs_top": "347",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Muddy Waters",
+        "album" : "Muddy Waters at Newport 1960",
+        "rs_top": "348",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jay-Z",
+        "album" : "The Black Album",
+        "rs_top": "349",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Yardbirds",
+        "album" : "The Yardbirds",
+        "rs_top": "350",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Neil Young & Crazy Horse",
+        "album" : "Rust Never Sleeps",
+        "rs_top": "351",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dire Straits",
+        "album" : "Brothers in Arms",
+        "rs_top": "352",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kanye West",
+        "album" : "My Beautiful Dark Twisted Fantasy",
+        "rs_top": "353",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Billy Joel",
+        "album" : "52nd Street",
+        "rs_top": "354",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Yardbirds",
+        "album" : "Having a Rave Up with the Yardbirds",
+        "rs_top": "355",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Randy Newman",
+        "album" : "12 Songs",
+        "rs_top": "356",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Rolling Stones",
+        "album" : "Between the Buttons",
+        "rs_top": "357",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Miles Davis",
+        "album" : "Sketches of Spain",
+        "rs_top": "358",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elton John",
+        "album" : "Honky Château",
+        "rs_top": "359",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Buzzcocks",
+        "album" : "Singles Going Steady",
+        "rs_top": "360",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "OutKast",
+        "album" : "Stankonia",
+        "rs_top": "361",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Smashing Pumpkins",
+        "album" : "Siamese Dream",
+        "rs_top": "362",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "New Order",
+        "album" : "Substance",
+        "rs_top": "363",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Doors",
+        "album" : "L.A. Woman",
+        "rs_top": "364",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Rage Against the Machine",
+        "album" : "Rage Against the Machine",
+        "rs_top": "365",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Johnny Cash",
+        "album" : "American Recordings",
+        "rs_top": "366",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Madonna",
+        "album" : "Ray of Light",
+        "rs_top": "367",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eagles",
+        "album" : "Eagles",
+        "rs_top": "368",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Smiths",
+        "album" : "Louder than Bombs",
+        "rs_top": "369",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Mott the Hoople",
+        "album" : "Mott",
+        "rs_top": "370",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "album" : "Whatever People Say I Am, That's What I'm Not",
+        "rs_top": "371",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Police",
+        "album" : "Reggatta De Blanc",
+        "rs_top": "372",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jefferson Airplane",
+        "album" : "Volunteers",
+        "rs_top": "373",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Roxy Music",
+        "album" : "Siren",
+        "rs_top": "374",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jackson Browne",
+        "album" : "Late for the Sky",
+        "rs_top": "375",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Björk",
+        "album" : "Post",
+        "rs_top": "376",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Lee Hooker",
+        "album" : "The Ultimate Collection: 1948 - 1990",
+        "rs_top": "377",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Oasis",
+        "album" : "(What's The Story) Morning Glory?",
+        "rs_top": "378",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "TLC",
+        "album" : "CrazySexyCool",
+        "rs_top": "379",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Toots & the Maytals",
+        "album" : "Funky Kingston",
+        "rs_top": "380",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beach Boys",
+        "album" : "Smile",
+        "rs_top": "381",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Modern Lovers",
+        "album" : "The Modern Lovers",
+        "rs_top": "382",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Talking Heads",
+        "album" : "More Songs about Buildings and Food",
+        "rs_top": "383",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Who",
+        "album" : "A Quick One",
+        "rs_top": "384",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Love and Theft",
+        "rs_top": "385",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Steely Dan",
+        "album" : "Pretzel Logic",
+        "rs_top": "386",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Wu-Tang Clan",
+        "album" : "Enter the Wu-Tang (36 Chambers)",
+        "rs_top": "387",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "The Indestructible Beat Of Soweto",
+        "rs_top": "388",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Don Henley",
+        "album" : "The End of the Innocence",
+        "rs_top": "389",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The White Stripes",
+        "album" : "Elephant",
+        "rs_top": "390",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jackson Browne",
+        "album" : "The Pretender",
+        "rs_top": "391",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Beatles",
+        "album" : "Let It Be",
+        "rs_top": "392",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "MIA",
+        "album" : "Kala",
+        "rs_top": "393",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Randy Newman",
+        "album" : "Good Old Boys",
+        "rs_top": "394",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "LCD Soundsystem",
+        "album" : "Sound Of Silver",
+        "rs_top": "395",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Roxy Music",
+        "album" : "For Your Pleasure",
+        "rs_top": "396",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Massive Attack",
+        "album" : "Blue Lines",
+        "rs_top": "397",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "ZZ Top",
+        "album" : "Eliminator",
+        "rs_top": "398",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Tom Waits",
+        "album" : "Rain Dogs",
+        "rs_top": "399",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Temptations",
+        "album" : "Anthology",
+        "rs_top": "400",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "album" : "Californication",
+        "rs_top": "401",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nas",
+        "album" : "Illmatic",
+        "rs_top": "402",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lynyrd Skynyrd",
+        "album" : "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+        "rs_top": "403",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Dr. John",
+        "album" : "Dr. John's Gumbo",
+        "rs_top": "404",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Big Star",
+        "album" : "Radio City",
+        "rs_top": "405",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "P J Harvey",
+        "album" : "Rid of Me",
+        "rs_top": "406",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Clash",
+        "album" : "Sandinista!",
+        "rs_top": "407",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sinéad O'Connor",
+        "album" : "I Do Not Want What I Haven't Got",
+        "rs_top": "408",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Doors",
+        "album" : "Strange Days",
+        "rs_top": "409",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bob Dylan",
+        "album" : "Time out of Mind",
+        "rs_top": "410",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eric Clapton",
+        "album" : "461 Ocean Boulevard",
+        "rs_top": "411",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Wire",
+        "album" : "Pink Flag",
+        "rs_top": "412",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Minutemen",
+        "album" : "Double Nickels on the Dime",
+        "rs_top": "413",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Go-Go's",
+        "album" : "Beauty and the Beat",
+        "rs_top": "414",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Van Halen",
+        "album" : "Van Halen",
+        "rs_top": "415",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Tom Waits",
+        "album" : "Mule Variations",
+        "rs_top": "416",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "U2",
+        "album" : "Boy",
+        "rs_top": "417",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Paul McCartney & Wings",
+        "album" : "Band on the Run",
+        "rs_top": "418",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Portishead",
+        "album" : "Dummy",
+        "rs_top": "419",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Buddy Holly and the Crickets",
+        "album" : "Buddy Holly and the Crickets",
+        "rs_top": "420",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Various Artists",
+        "album" : "The Best of The Girl Groups,  Volume 1",
+        "rs_top": "421",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Ronettes,featuring Veronica",
+        "album" : "Presenting The Fabulous Ronettes",
+        "rs_top": "422",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Diana Ross & the Supremes",
+        "album" : "Anthology",
+        "rs_top": "423",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "The Rising",
+        "rs_top": "424",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Gram Parsons",
+        "album" : "Grievous Angel",
+        "rs_top": "425",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cheap Trick",
+        "album" : "Cheap Trick at Budokan",
+        "rs_top": "426",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Peter Wolf",
+        "album" : "Sleepless",
+        "rs_top": "427",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Police",
+        "album" : "Outlandos D'Amour",
+        "rs_top": "428",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eno",
+        "album" : "Another Green World",
+        "rs_top": "429",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Vampire Weekend",
+        "album" : "Vampire Weekend",
+        "rs_top": "430",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "P J Harvey",
+        "album" : "Stories from the City, Stories from the Sea",
+        "rs_top": "431",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eno",
+        "album" : "Here Come the Warm Jets",
+        "rs_top": "432",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "George Harrison",
+        "album" : "All Things Must Pass",
+        "rs_top": "433",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Big Star",
+        "album" : "1 Record",
+        "rs_top": "434",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Nirvana",
+        "album" : "In Utero",
+        "rs_top": "435",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Beck",
+        "album" : "Sea Change",
+        "rs_top": "436",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Lil’ Wayne",
+        "album" : "Tha Carter III",
+        "rs_top": "437",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Cure",
+        "album" : "Boys Don't Cry",
+        "rs_top": "438",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Sam Cooke",
+        "album" : "Live at the Harlem Square Club 1963",
+        "rs_top": "439",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Pogues",
+        "album" : "Rum Sodomy & The Lash",
+        "rs_top": "440",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Suicide",
+        "album" : "Suicide",
+        "rs_top": "441",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Devo",
+        "album" : "Q: Are We Not Men? A: We Are Devo!",
+        "rs_top": "442",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cheap Trick",
+        "album" : "In Color",
+        "rs_top": "443",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "War",
+        "album" : "The World is a Ghetto",
+        "rs_top": "444",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Steve Miller Band",
+        "album" : "Fly Like an Eagle",
+        "rs_top": "445",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "MC5",
+        "album" : "Back in the USA",
+        "rs_top": "446",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Stan Getz / João Gilberto Featuring Antonio Carlos Jobim",
+        "album" : "Getz / Gilberto",
+        "rs_top": "447",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Police",
+        "album" : "Synchronicity",
+        "rs_top": "448",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Big Star",
+        "album" : "3rd",
+        "rs_top": "449",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Jackson Browne",
+        "album" : "For Everyman",
+        "rs_top": "450",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Amy Winehouse",
+        "album" : "Back to Black",
+        "rs_top": "451",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "John Prine",
+        "album" : "John Prine",
+        "rs_top": "452",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "EPMD",
+        "album" : "Strictly Business",
+        "rs_top": "453",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Alice Cooper",
+        "album" : "Love It to Death",
+        "rs_top": "454",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Los Lobos",
+        "album" : "How Will the Wolf Survive?",
+        "rs_top": "455",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Marvin Gaye",
+        "album" : "Here, My Dear",
+        "rs_top": "456",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "My Morning Jacket",
+        "album" : "Z",
+        "rs_top": "457",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elton John",
+        "album" : "Tumbleweed Connection",
+        "rs_top": "458",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Drifters",
+        "album" : "The Drifters' Golden Hits",
+        "rs_top": "459",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Hole",
+        "album" : "Live Through This",
+        "rs_top": "460",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Public Image Limited",
+        "album" : "Metal Box",
+        "rs_top": "461",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "R.E.M.",
+        "album" : "Document",
+        "rs_top": "462",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Echo And The Bunnymen",
+        "album" : "Heaven Up Here",
+        "rs_top": "463",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Def Leppard",
+        "album" : "Hysteria",
+        "rs_top": "464",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Magnetic Fields",
+        "album" : "69 Love Songs",
+        "rs_top": "465",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Coldplay",
+        "album" : "A Rush of Blood to the Head",
+        "rs_top": "466",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "album" : "Tunnel Of Love",
+        "rs_top": "467",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Paul Butterfield Blues Band",
+        "album" : "The Paul Butterfield Blues Band",
+        "rs_top": "468",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Fugees",
+        "album" : "The Score",
+        "rs_top": "469",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "LL Cool J",
+        "album" : "Radio",
+        "rs_top": "470",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "George Michael",
+        "album" : "Faith",
+        "rs_top": "471",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Richard & Linda Thompson",
+        "album" : "Want to See the Bright Lights Tonight",
+        "rs_top": "472",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Smiths",
+        "album" : "The Smiths",
+        "rs_top": "473",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Manu Chao",
+        "album" : "Próxima Estación... Esperanza",
+        "rs_top": "474",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Elvis Costello and the Attractions",
+        "album" : "Armed Forces",
+        "rs_top": "475",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Notorious B.I.G",
+        "album" : "Life After Death",
+        "rs_top": "476",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Merle Haggard",
+        "album" : "Down Every Road (1962 - 1994)",
+        "rs_top": "477",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Loretta Lynn",
+        "album" : "All Time Greatest Hits",
+        "rs_top": "478",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Funkadelic",
+        "album" : "Maggot Brain",
+        "rs_top": "479",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Chef Raekwon",
+        "album" : "Only Built 4 Cuban Linx...",
+        "rs_top": "480",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "D'Angelo",
+        "album" : "Voodoo",
+        "rs_top": "481",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Steve Earle",
+        "album" : "Guitar Town",
+        "rs_top": "482",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Gang of Four",
+        "album" : "Entertainment!",
+        "rs_top": "483",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Mott the Hoople",
+        "album" : "All the Young Dudes",
+        "rs_top": "484",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Pearl Jam",
+        "album" : "Vitalogy",
+        "rs_top": "485",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Earth, Wind & Fire",
+        "album" : "That's the Way of the World",
+        "rs_top": "486",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Cyndi Lauper",
+        "album" : "She's So Unusual",
+        "rs_top": "487",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Hüsker Dü",
+        "album" : "New Day Rising",
+        "rs_top": "488",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Kiss",
+        "album" : "Destroyer",
+        "rs_top": "489",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "ZZ Top",
+        "album" : "Tres Hombres",
+        "rs_top": "490",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Albert King",
+        "album" : "Born Under A Bad Sign",
+        "rs_top": "491",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Eurythmics",
+        "album" : "Touch",
+        "rs_top": "492",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Wilco",
+        "album" : "Yankee Hotel Foxtrot",
+        "rs_top": "493",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "MGMT",
+        "album" : "Oracular Spectacular",
+        "rs_top": "494",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Bonnie Raitt",
+        "album" : "Give It Up",
+        "rs_top": "495",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "Boz Scaggs",
+        "album" : "Boz Scaggs",
+        "rs_top": "496",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The White Stripes",
+        "album" : "White Blood Cells",
+        "rs_top": "497",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "The Stone Roses",
+        "album" : "The Stone Roses",
+        "rs_top": "498",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "B.B. King",
+        "album" : "Live in Cook County Jail",
+        "rs_top": "499",
+        "spotify_link": "",
+        "spotify_id": ""
+    },
+    {
+        "artist": "OutKast",
+        "album" : "Aquemini",
+        "rs_top": "500",
+        "spotify_link": "",
+        "spotify_id": ""
+    }
+]
